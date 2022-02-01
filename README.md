@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Hellimateas&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Hellimateas&show_icons=true&title_color=32CD32&text_color=32CD32&icon_color=228B22&bg_color=000000&cache_seconds=2300">
 
 ## Sobre mim:
 
@@ -10,6 +10,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+![SQL Server](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=MariaDB)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
