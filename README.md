@@ -5,6 +5,7 @@
 * Sou estudante de análise em Desenvolvimento e Sistema</br>
 * Trabalho, atualmente, na Brisanet como técnico em telecomunicações</br>
 * Programo em Java</br>
+* atualmente estou trabalhando no repositório <a href="https://github.com/Hellimateas/learnCSS">learnCSS</a>.
 
 
 
