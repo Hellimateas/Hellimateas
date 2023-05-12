@@ -4,7 +4,7 @@
 
 * Sou estudante de análise em Desenvolvimento e Sistema</br>
 * Trabalho, atualmente, na Brisanet como técnico em telecomunicações</br>
-* Programo em Java</br>
+* Programo em JavaScript</br>
 * atualmente estou estudando ReactJs, logo mais venho fazer projetos.
 
 
